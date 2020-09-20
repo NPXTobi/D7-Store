@@ -1,0 +1,46 @@
+{
+	"storeInfo": {
+		"title": "D7-Store",
+		"author": "Tobi",
+		"url": "https://github.com/NPXTobi/D7-Store/raw/master/unistore/D7.unistore",
+		"file": "sdmc:/3ds/Universal-Updater/stores/D7-StoreV2.unistore",
+		
+		"description": "Blablabla",
+		"categories": ["game", "save_editor", "utility"],
+		"authors": ["NPXTobi", "Universal-Team"],
+		"consoles": ["3DS"],
+		"barLight": "#395472",
+		"barDark": "#395472",
+		"bgDark": "#262c4d",
+		"bgLight": "#60a8c0",
+		"textDark": "#ffffff",
+		"textLight": "#000000",
+		"boxDark": "#313131",
+		"boxLight": "#f7f7f7",
+		"outlineDark": "#f00000",
+		"outlineLight": "#f00000",
+		"version": 2,
+		"revision": 1
+	},
+	"storeContent": [{
+		"info": {
+			"title": "Demo-Reset(3dsx)",
+			"version": "v0.2.0",
+			"author": "ff",
+			"category": "game",
+			"console": "ff",
+			"icon_index": 0,
+			"description": "Aff"
+		},
+		
+		"Download Demo-Reset.3dsx": [{
+			"type": "downloadRelease",
+			"repo": "Universal-Team/Demo-Reset",
+			"file": "Demo-Reset.3dsx",
+			"output": "sdmc:/3ds/Demo-Reset.3dsx",
+			"message": "Downloading Demo-Reset.3dsx..."
+		}],
+		
+		
+	},
+	
